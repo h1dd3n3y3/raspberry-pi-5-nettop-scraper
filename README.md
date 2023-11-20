@@ -1,5 +1,5 @@
 # raspberry-pi-5-nettop-scraper
-A simple Python script, intended be used with Linux's crontab, to monitor the complete raspberry pi 5 bundle's stock at nettop.gr
+A simple Python script, intended to be used with Linux's crontab, to monitor the complete raspberry pi 5 bundle's stock at nettop.gr
 
 ## Bundle contents
 - #### [Raspberry Pi 5 8GB model](https://nettop.gr/index.php/en/raspberry-pi-en//kits-and-boards/raspberry-pi-5-8gb.html)
